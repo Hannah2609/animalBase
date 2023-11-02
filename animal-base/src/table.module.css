@@ -1,0 +1,24 @@
+.main {
+    height: 100vh;
+}
+.table {
+    display: grid;
+    place-items: center;
+}
+.button {
+  margin: 10px;
+  margin-left: 0;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border: none;
+  padding: 5px 20px;
+}
+.buttonSort {
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  padding: 5px 10px;
+  gap: 5px;
+  margin: 10px;
+  margin-left: 0;
+}
